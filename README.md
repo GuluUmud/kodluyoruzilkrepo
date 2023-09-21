@@ -18,4 +18,16 @@ C:\Users\Asus\Desktop> cd kodluyoruzilkrepo
 C:\Users\Asus\Desktop\kodluyoruz>code .
 ```
 ## İnstallation of content
-Repoyu ilk yaratdığımızda 
+Repoyu ilk yaratdığımızda **Add a README file** seçdiğimiz için otomatik olarak **README.md** dosyası oluşturulur. *İndex.html* dosyasını yaratmak için bir kaç yol vardır:
+1. ***File -> New File...*** yolunu izlemekle; 
+
+5. **Explorer** menü satrından *New File* butonunu sıkmakla;
+![New file in VS Code](https://code.visualstudio.com/assets/docs/typescript/tutorial/create-new-file.png)
+
+Böylelikle, index.html dosyasını hazırlamış olduk.
+
+## Contuributing
+Bundan sonra neyi değiştirmek istiyorsak, değiştiririz. Yapdığımız değişiklikleri *commit*lemeyi unutmamalıyız. 
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
